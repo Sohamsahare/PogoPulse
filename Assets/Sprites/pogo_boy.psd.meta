@@ -112,10 +112,10 @@ TextureImporter:
       name: pogo_boy_03
       rect:
         serializedVersion: 2
-        x: 39
-        y: 599
+        x: 26
+        y: 526
         width: 198
-        height: 481
+        height: 521
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,10 +132,10 @@ TextureImporter:
       name: pogo_boy_02
       rect:
         serializedVersion: 2
-        x: 440
-        y: 568
+        x: 454
+        y: 525
         width: 200
-        height: 512
+        height: 521
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
