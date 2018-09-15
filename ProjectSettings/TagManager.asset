@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - PickUps
+  - Enemy
+  - FX
   layers:
   - Default
   - TransparentFX
